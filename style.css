@@ -384,6 +384,12 @@ section.experience .ticket {
   height: 14px;
 }
 
+/* ---------- RECOMENDAÇÕES ---------- */
+.recommend-body .project-desc {
+  display: block;
+  margin-bottom: 18px;
+}
+
 /* ---------- SKILLS ---------- */
 .skills-grid {
   display: grid;
